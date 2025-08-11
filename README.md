@@ -13,7 +13,7 @@ By performing Exploratory Data Analysis (EDA), we aim to transform raw medical d
 ## 📊 Key Visualizations
 
 ### 1️⃣ Distribution of Type of Diabetes by Genetic and Family Risk
-![Genetic Family Risk](images/genetic_family_risk.png)  
+![Genetic Family Risk](https://github.com/Esraa-MOhamed7/Diabetes-EDA/blob/main/Distribution%20of%20Type%20of%20Diabetes%20by%20Genetic%20and%20Family%20Risks.png)  
 **Insight:**  
 Patients with a positive family history have a significantly higher proportion of Type 2 Diabetes compared to those without a family risk.
 
