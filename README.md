@@ -19,7 +19,7 @@ Patients with a positive family history have a significantly higher proportion o
 
 
 ### 2️⃣ Distribution of Insulin Levels for Each Type of Diabetes
-![Insulin Levels by Type](images/insulin_levels_by_type.png)  
+![Insulin Levels by Type](https://github.com/Esraa-MOhamed7/Diabetes-EDA/blob/main/Ditribution%20of%20Insulin%20Levels%20for%20each%20Type%20of%20Diabetes.png)  
 **Insight:**  
 Type 2 Diabetes patients tend to have higher insulin levels on average, while Type 1 patients show more variability.
 
