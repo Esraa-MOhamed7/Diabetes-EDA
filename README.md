@@ -25,7 +25,7 @@ Type 2 Diabetes patients tend to have higher insulin levels on average, while Ty
 
 
 ### 3️⃣ Relationship Between Insulin and Blood Pressure
-![Insulin vs Blood Pressure](images/insulin_vs_bp.png)  
+![Insulin vs Blood Pressure](https://github.com/Esraa-MOhamed7/Diabetes-EDA/blob/main/The%20Relatioship%20between%20Insulin%20and%20Blood%20Pressure.png)  
 **Insight:**  
 A moderate positive correlation exists between insulin levels and blood pressure — higher insulin is often associated with elevated blood pressure.
 
