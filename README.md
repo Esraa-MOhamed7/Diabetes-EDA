@@ -6,7 +6,7 @@ By performing Exploratory Data Analysis (EDA), we aim to transform raw medical d
 
 
 ## 📂 Dataset
-- **Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/ankitbatra1210/diabetes-dataset) *(Replace with actual dataset link)*
+- **Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/ankitbatra1210/diabetes-dataset)
 - **Description:** Contains patient information including age, gender, genetic & family history, insulin levels, blood pressure, and type of diabetes.
 
 
